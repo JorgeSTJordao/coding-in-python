@@ -7,6 +7,6 @@ The main purpose of this repository is sharing some **Python Projects** with eve
 
 ### References:
 - Website:
-  - [Python](https://www.python.org/doc/)
+  - [Python Docs](https://www.python.org/doc/)
 - YouTube Video:
   - [Create your Own IDE](https://youtu.be/f1u3me4GYmw?si=4F179Q8r1P3F85Av)
