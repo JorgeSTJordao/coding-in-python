@@ -9,7 +9,6 @@ Let's learn a little more about Python and create some awesome applications with
 Tools used during this project development: 
 
 - Python
-- Selenium
 - Tkinter
 
 # 📂 Summary
