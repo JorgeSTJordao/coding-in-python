@@ -18,7 +18,7 @@ Tools used during this project development:
 | :----------------: | :---------------------------------------------------: |:----------------:  |
 |   Training Section  |  Basics concepts of Python Programming  | [Python Docs](https://www.python.org/doc/) |
 |   Selenium  |  Web scraping  | ... |
-|    IDE with Python   |    First IDE using Tkinter package   | [Create your Own IDE](https://youtu.be/f1u3me4GYmw?si=4F179Q8r1P3F85Av) |
+|    IDE with Tkinter   |    First IDE using Tkinter package   | [Create your Own IDE](https://youtu.be/f1u3me4GYmw?si=4F179Q8r1P3F85Av) |
 
 ## Have fun with this project!
 
