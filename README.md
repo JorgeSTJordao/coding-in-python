@@ -1,4 +1,4 @@
-![Python Header](https://4.bp.blogspot.com/-8dK0zJ_WpJ0/VtYz5OdXp7I/AAAAAAAAQes/LCcyUzRhCfQ/s1600/banner.jpg)
+<img src="https://github.com/user-attachments/assets/392a4e93-884c-4edf-8504-35e61785c008" width="100%">
 
 # 🤖 Coding in Python
 
