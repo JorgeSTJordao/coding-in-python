@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/392a4e93-884c-4edf-8504-35e61785c008" width="100%">
-
 # 🤖 Coding in Python
 
 Let's learn a little more about Python and create some awesome applications with it
