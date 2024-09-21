@@ -13,7 +13,8 @@ Tools used during this project development:
 
 |      Folders     |                         Aim                          | Reference |
 | :----------------: | :---------------------------------------------------: |:----------------:  |
-|    IDE with Tkinter   |    First IDE using Tkinter package   | [Create your Own IDE](https://youtu.be/f1u3me4GYmw?si=4F179Q8r1P3F85Av) |
+|    hello_world   |    Start coding in Python   | [Python](https://youtu.be/f1u3me4GYmw?si=4F179Q8r1P3F85Av) |
+|    hello_world   |    Solve Python exercises   | [CodeWar](https://www.codewars.com/dashboard) |
 
 ## Have fun with this project!
 
